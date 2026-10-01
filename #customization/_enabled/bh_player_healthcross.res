@@ -11,7 +11,7 @@
 
     "PlayerStatusHealthImage"
     {
-        "xpos"                                                      "s1.2"
+        "xpos"                                                      "s1.9"
         "ypos"                                                      "cs-0.5"
         "wide"                                                      "30"
         "tall"                                                      "o1"
@@ -22,9 +22,9 @@
 
     "PlayerStatusHealthImageBG"
     {
-        "xpos"                                                      "s0.97"
+        "xpos"                                                      "s1.62"
         "ypos"                                                      "cs-0.5"
-        "wide"                                                      "35"
+        "wide"                                                      "34"
         "tall"                                                      "o1"
         "visible"                                                   "1"
         "enabled"                                                   "1"
@@ -33,7 +33,7 @@
 
     "PlayerStatusHealthBonusImage"
     {
-        "xpos"                                                      "s0.97"
+        "xpos"                                                      "s1.562"
         "ypos"                                                      "cs-0.5"
         "wide"                                                      "35"
         "tall"                                                      "o1"
