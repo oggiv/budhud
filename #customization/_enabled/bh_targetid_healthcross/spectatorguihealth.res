@@ -33,8 +33,8 @@
     {
         "xpos"                                                      "3"
         "ypos"                                                      "3"
-        "wide"                                                      "15"
-        "tall"                                                      "15"
+        "wide"                                                      "14"
+        "tall"                                                      "14"
         "visible"                                                   "1"
         "enabled"                                                   "1"
     }
