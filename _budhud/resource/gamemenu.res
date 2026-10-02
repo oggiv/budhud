@@ -20,17 +20,17 @@
     "bh_Favorite1"
     {
         "label"                                                     ""
-        "command"                                                   "engine connect 162.248.93.239:27015"
+        "command"                                                   "engine connect 193.221.192.50:27015"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jump.tf | Beginners (Los Angeles)"
+        "tooltip"                                                   "UGC.TF | DUSTBOWL | EU+ | FAST"
     }
 
     "bh_Favorite2"
     {
         "label"                                                     ""
-        "command"                                                   "engine connect 74.91.113.87:27025"
+        "command"                                                   "engine walkway"
         "OnlyAtMenu"                                                "0"
-        "tooltip"                                                   "jumpacademy.tf | Beginners (Chicago)"
+        "tooltip"                                                   "tr_walkway_rc2"
     }
 
     "bh_budhudTitle"
