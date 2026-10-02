@@ -28,26 +28,26 @@ Scheme
         // Unified HUD Crosshairs
         /////////////////////////
 
-        "hud_crosshair_1"                                           "255 255 255 255"   // Crosshair color
+        "hud_crosshair_1"                                           "235 235 235 255"   // Crosshair color
         "hud_crosshair_1_flash"                                     "240 134 049 255"   // Flash on damage done
 
-        "hud_crosshair_2"                                           "255 255 255 255"   // Crosshair color
+        "hud_crosshair_2"                                           "235 235 234 255"   // Crosshair color
         "hud_crosshair_2_flash"                                     "240 134 049 255"   // Flash on damage done
 
-        "hud_crosshair_3"                                           "255 255 255 255"   // Crosshair color
+        "hud_crosshair_3"                                           "235 235 234 255"   // Crosshair color
         "hud_crosshair_3_flash"                                     "240 134 049 255"   // Flash on damage done
 
         ////////////////////
         // Legacy Crosshairs
         ////////////////////
 
-        "hud_crosshair_whayay"                                      "255 255 255 255"   // Crosshair color
+        "hud_crosshair_whayay"                                      "235 235 234 255"   // Crosshair color
         "hud_crosshair_whayay_flash"                                "240 134 049 255"   // Flash on damage done
 
-        "hud_crosshair_knuckles"                                    "255 255 255 255"   // Crosshair color
+        "hud_crosshair_knuckles"                                    "235 235 234 255"   // Crosshair color
         "hud_crosshair_knuckles_flash"                              "240 134 049 255"   // Flash on damage done
 
-        "hud_crosshair_fog"                                         "255 255 255 255"   // Crosshair color
+        "hud_crosshair_fog"                                         "235 235 234 255"   // Crosshair color
         "hud_crosshair_fog_flash"                                   "240 134 049 255"   // Flash on damage done
 
 
@@ -57,8 +57,8 @@ Scheme
     // For health animations, see: https://github.com/rbjaxter/budhud/wiki/Health-&-Ammo-Animations
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        "bh_Health_Main"                                            "255 255 255 255"
-        "bh_Health_Shadow"                                          "000 000 000 000"
+        "bh_Health_Main"                                            "235 235 235 255"
+        "bh_Health_Shadow"                                          "054 049 043 255"
         "bh_Health_Low"                                             "186 032 032 255"
         "bh_Health_Buff"                                            "030 190 095 255"
         "bh_Health_Pickup"                                          "030 190 095 255"
@@ -69,20 +69,20 @@ Scheme
     // For ammo animations, see: https://github.com/rbjaxter/budhud/wiki/Health-&-Ammo-Animations
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        "bh_Ammo_Main"                                              "255 255 255 255"
-        "bh_Ammo_Reserve"                                           "255 255 255 255"
+        "bh_Ammo_Main"                                              "235 235 235 255"
+        "bh_Ammo_Reserve"                                           "235 235 235 255"
         "bh_Ammo_Low"                                               "186 032 032 255"
-        "bh_Ammo_Main_Shadow"                                       "000 000 000 255"
-        "bh_Ammo_Reserve_Shadow"                                    "000 000 000 255"
+        "bh_Ammo_Main_Shadow"                                       "054 049 043 255"
+        "bh_Ammo_Reserve_Shadow"                                    "054 049 043 255"
         "bh_Ammo_Pickup"                                            "240 134 049 255"
-        "bh_Metal"                                                  "255 255 255 255"
-        "bh_Metal_Shadow"                                           "000 000 000 255"
+        "bh_Metal"                                                  "235 235 235 255"
+        "bh_Metal_Shadow"                                           "054 049 043 255"
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
     // Damage Done & Heals Given
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        "bh_hudDMGDisplay"                                          "243 157 048 255"   // Static damage number that appears bottom center of screen
+        "bh_hudDMGDisplay"                                          "235 235 235 255"   // Static damage number that appears bottom center of screen
         "bh_HealColor"                                              "030 190 095 255"   // Medigun/arrow heal color
         "bh_UberDrop"                                               "255 105 180 255"   // Uber drop color
 
@@ -118,13 +118,13 @@ Scheme
         //////////////////////////////
 
         // Uber Meter
-        "bh_UberMeter_Base"                                         "255 255 255 255"   // Uber chargemeter fill color
+        "bh_UberMeter_Base"                                         "235 235 235 255"   // Uber chargemeter fill color
         "bh_UberMeter_Background"                                   "150 150 150 255"   // Uber chargemeter background
         "bh_UberMeter_Flash1"                                       "243 157 048 255"   // When full, uber meter will change between these two values
         "bh_UberMeter_Flash2"                                       "204 093 027 255"
 
         // Uber Percentage
-        "bh_UberLabel_Base"                                         "255 255 255 255"   // Uber percentage base color
+        "bh_UberLabel_Base"                                         "235 235 235 255"   // Uber percentage base color
         "bh_UberLabel_Flash1"                                       "243 157 048 255"   // When full, uber percentage will change between these two values
         "bh_UberLabel_Flash2"                                       "204 093 027 255"
 
@@ -163,40 +163,40 @@ Scheme
         //////////
         // Default
         //////////
-        "bh_menu_foreground1"                                       "255 255 255 255"   // White
-        "bh_menu_foreground2"                                       "255 255 255 255"   // White
+        "bh_menu_foreground1"                                       "235 235 234 255"   // White
+        "bh_menu_foreground2"                                       "235 235 234 255"   // White
         "bh_menu_background1"                                       "240 134 049 255"   // Orange
         "bh_menu_background2"                                       "240 134 049 255"   // Orange
 
         //////////
         // January
         //////////
-        // "bh_menu_foreground1"                                    "255 255 255 255"   // White
-        // "bh_menu_foreground2"                                    "255 255 255 255"   // White
+        // "bh_menu_foreground1"                                    "235 235 234 255"   // White
+        // "bh_menu_foreground2"                                    "235 235 234 255"   // White
         // "bh_menu_background1"                                    "186 085 211 255"   // Medium Orchid
         // "bh_menu_background2"                                    "070 130 180 255"   // Steel Blue
 
         //////////
         // October
         //////////
-        "bh_menu_foreground_october1"                               "255 255 255 255"   // White
-        "bh_menu_foreground_october2"                               "255 255 255 255"   // White
+        "bh_menu_foreground_october1"                               "235 235 234 255"   // White
+        "bh_menu_foreground_october2"                               "235 235 234 255"   // White
         "bh_menu_background_october1"                               "124 016 173 255"   // Spooky Purple
         "bh_menu_background_october2"                               "241 088 002 255"   // Spooky Orange
 
         ///////////
         // December
         ///////////
-        "bh_menu_foreground_december1"                              "255 255 255 255"   // White
-        "bh_menu_foreground_december2"                              "255 255 255 255"   // White
+        "bh_menu_foreground_december1"                              "235 235 234 255"   // White
+        "bh_menu_foreground_december2"                              "235 235 234 255"   // White
         "bh_menu_background_december1"                              "194 023 023 255"   // Dark Red
         "bh_menu_background_december2"                              "060 141 013 255"   // Dark Green
 
         ////////////
         // Synthwave
         ////////////
-        "bh_menu_foreground_synthwave1"                             "255 255 255 255"   // White
-        "bh_menu_foreground_synthwave2"                             "255 255 255 255"   // White
+        "bh_menu_foreground_synthwave1"                             "235 235 234 255"   // White
+        "bh_menu_foreground_synthwave2"                             "235 235 234 255"   // White
         "bh_menu_background_synthwave1"                             "113 219 212 255"   // Andes Sky
         "bh_menu_background_synthwave2"                             "088 167 175 255"   // Explorer Blue
 
@@ -264,8 +264,8 @@ Scheme
     // These tend to be colors you don't want to mess with, as they affect many aspects of the hud
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        "bh_white"                                                  "255 255 255 255"
-        "bh_white_t"                                                "255 255 255 150"
+        "bh_white"                                                  "235 235 234 255"
+        "bh_white_t"                                                "235 235 234 150"
         "bh_black"                                                  "000 000 000 255"
         "bh_lblue"                                                  "000 153 255 255"
         "bh_dgray"                                                  "100 100 100 255"
@@ -296,7 +296,7 @@ Scheme
 
         // Standard
         "bh_Theme_TextAccent"                                       "240 134 049 255"
-        "bh_Theme_TextSecondary"                                    "255 255 255 255"
+        "bh_Theme_TextSecondary"                                    "235 235 234 255"
 
         "bh_Theme_BG00"                                             "015 015 015 255"
         "bh_Theme_BG20"                                             "025 025 025 255"
@@ -305,7 +305,7 @@ Scheme
         "bh_Theme_BG60"                                             "065 065 065 255"
 
         "bh_ButtonBlank"                                            "000 000 000 000"
-        "bh_ButtonDepressed"                                        "255 255 255 255"
+        "bh_ButtonDepressed"                                        "235 235 234 255"
 
         "bh_ItemPanel"                                              "035 035 035 255"
         "bh_MouseOverBG"                                            "035 035 035 255"       // Item mouse-over BG color
@@ -322,13 +322,13 @@ Scheme
         "Orange"                                                    "240 134 049 255"       // Used in vote menu headers (I believe)
         "LightRed"                                                  "254 002 209 255"       // Bright pink to locate
         "LighterRed"                                                "254 002 209 255"       // Bright pink to locate
-        "TanLight"                                                  "255 255 255 255"       // Used in far too many places to want to do anything but change it here
-        "TanDark"                                                   "255 255 255 255"       // Used in advanced options & mvmvictorymannupentry.res (though not hardcoded)
-        "HudOffWhite"                                               "255 255 255 255"
+        "TanLight"                                                  "235 235 234 255"       // Used in far too many places to want to do anything but change it here
+        "TanDark"                                                   "235 235 234 255"       // Used in advanced options & mvmvictorymannupentry.res (though not hardcoded)
+        "HudOffWhite"                                               "235 235 234 255"
 
         // Engineer HUD Specific
         "LowHealthRed"                                              "159 055 055 255"       // When building is low health or is in first stage of building
-        "ProgressOffWhite"                                          "255 255 255 255"       // Right build progress and ammo bars
+        "ProgressOffWhite"                                          "235 235 234 255"       // Right build progress and ammo bars
         "ProgressBackground"                                        "150 150 150 255"       // Right `Building...` Progress color BG, ItemEffectMeter BG
         "HealthBgGrey"                                              "080 080 080 255"       // Left build progress bar
 
@@ -366,24 +366,24 @@ Scheme
         "Menu.TextInset"                                            "10"
 
         // Weapon Selection Colors
-        "SelectionNumberFg"                                         "255 255 255 255"
-        "SelectionTextFg"                                           "255 255 255 255"
+        "SelectionNumberFg"                                         "235 235 234 255"
+        "SelectionTextFg"                                           "235 235 234 255"
         "SelectionEmptyBoxBg"                                       "0 0 0 80"
         "SelectionBoxBg"                                            "0 0 0 80"
         "SelectionSelectedBoxBg"                                    "0 0 0 190"
 
         // Hint message colors
         // Bottom center (surf timers/etc)
-        "HintMessageFg"                                             "255 255 255 255"
+        "HintMessageFg"                                             "235 235 234 255"
         "HintMessageBg"                                             "000 000 000 060"
 
         // Controls color of HudHintKeyDisplay (surf/jump timer)
-        "FgColor"                                                   "255 255 255 255"
+        "FgColor"                                                   "235 235 234 255"
 
         // Vote menu (center left)
         // CHudMenu
-        "ItemColor"                                                 "255 255 255 255"
-        "MenuColor"                                                 "255 255 255 255"
+        "ItemColor"                                                 "235 235 234 255"
+        "MenuColor"                                                 "235 235 234 255"
         "MenuBoxBg"                                                 "000 000 000 100"
 
         // vgui_controls color specifications
